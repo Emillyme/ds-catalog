@@ -1,0 +1,33 @@
+.home-container{
+    padding: 20px;
+    font-size: 26px;
+    text-align: center;
+    border: 1px solid red;
+}
+
+.home-card{
+    background-color: white;
+    box-shadow: 0px 4px 20px black;
+    border-radius:  20px;
+    border: 1px solid rgb(227, 255, 12);
+}
+
+.home-content-container {
+    border: 1px solid rgb(23, 120, 230);
+    
+}
+
+.home-content-container h1 {
+    font-size:  1em;
+    
+}
+
+.home-image-container{
+    padding: 0 15px;
+    border: 1px solid violet;
+}
+
+.home-image-container svg {
+    width: 100%;
+    height: auto;
+}
